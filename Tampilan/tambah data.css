@@ -1,0 +1,103 @@
+.form-tambah{
+	position: relative;
+	width: 96%;
+	height: 93%;
+	background: #ecf0f1;
+	top: 2%;
+	left: 1%;
+	padding: 10px;
+	
+}
+.behind-form{
+	width: 80%;
+	height: 80%;
+	border: 5px solid #6f918a;
+	position: relative;
+	top: 5%;
+	left: 10%;
+	bottom: 50%;
+	
+}
+.label-input{
+	margin-left: 70px;
+	padding: 20px;
+	font-size: 20px;
+}
+.tombol-tambah-pasien{
+	background: #95a5a6;
+	border: none;
+	padding: 5px;
+	font-weight: bolder;
+	margin: 2% 0 0 122px;
+	color:#ffffff;
+	width: 10%;
+	-webkit-border-radius: 3px 3px 3px 3px;
+	
+}
+.tombol-tambah-dokter{
+	background: #95a5a6;
+	border: none;
+	padding: 5px;
+	font-weight: bolder;
+	margin: 2% 0 0 110px;
+	color:#ffffff;
+	width: 10%;
+	-webkit-border-radius: 3px 3px 3px 3px;
+	
+}
+.tombol-edit {
+	background:rgba(34, 167, 240,1);
+	border: none;
+	color: #ffffff;
+	font-weight: bold; 
+	padding: 4px;
+	height: 30px;
+	width: 80px;
+	-webkit-border-radius: 3px 3px 3px 3px;
+}
+.tombol-hapus {
+	background:rgba(34, 167, 240,1);
+	border: none;
+	color: #ffffff; 
+	font-weight: bold;
+	padding: 4px;
+	height: 30px;
+	width: 80px;
+	-webkit-border-radius: 3px 3px 3px 3px;
+}
+
+.tabel-input{
+	font-size: 20px;
+	margin: 5px;
+	padding: 3px;
+	border: none;
+	background:rgba(189, 195, 199,1.0);
+	width: 90%;
+	height: 80%;
+	-webkit-border-radius: 4px 4px 4px 4px;
+}
+
+.input-login{
+	position: relative;
+	font-size: 20px;
+	padding: 3px;
+	border: none;
+	background:rgba(228, 241, 254,1.0);
+	margin:5px;
+	width: 120%;
+	left: 7%;
+	-webkit-border-radius: 5px 5px 5px 5px;
+}
+.login{
+	background: #ecf0f1;
+	border: none;
+	text-align: center;
+	font-size: 15px;
+	font-weight: bolder;
+	margin: 2% 0 0 9px;
+	padding: 5px;
+	width: 80px;
+	color: rgba(108, 122, 137,1.0);
+	-webkit-border-radius: 3px 3px 3px 3px;
+}
+
